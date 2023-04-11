@@ -1,0 +1,13 @@
+/* common */
+
+.title{
+    font-family: 'Cal Sans';
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 1.2;    
+    color: #121212;
+}
+
+.title span{
+    color:rgba(255, 100, 40, 1)
+}
